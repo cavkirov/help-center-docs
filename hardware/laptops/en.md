@@ -101,6 +101,7 @@ below that are in fact compatible.
 - Lenovo G50-80
 - Lenovo G510
 - Lenovo IdeaPad S400U
+- Lenovo IdeaPad U310
 - Lenovo IdeaPad U310 Touch
 - Lenovo IdeaPad Z370
 - Lenovo IdeaPad Z585
